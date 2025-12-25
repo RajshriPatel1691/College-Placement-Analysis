@@ -1,0 +1,26 @@
+Student_ID,Name,Branch,Year,Placed,Company,Package
+1,Rajshri Patel,CSE,2023,Yes,TCS,3.5
+2,Sonali Borse,IT,2023,No,,0.0
+3,Rahul Patil,CSE,2023,Yes,Infosys,4.0
+4,Pratik More,Mechanical,2023,No,,0.0
+5,Chetana Valvi,ENTC,2023,Yes,Wipro,5.0
+6,Unati Joshi,CSE,2024,Yes,Capgemini,3.8
+7,Parth Patel,IT,2024,No,,0.0
+8,Sangita Patil,Mechanical,2024,Yes,Accenture,4.5
+9,Rahul Talvi,CSE,2024,Yes,TCS,3.9
+10,Kushi Sharma,ENTC,2024,No,,0.0
+11,Rita Powar,IT,2024,Yes,Infosys,4.2
+12,Manish More,CSE,2024,No,,0.0
+13,Sneha Patil,Mechanical,2025,Yes,Wipro,5.0
+14,Amit Joshi,CSE,2025,Yes,TCS,3.6
+15,Neha Sharma,IT,2025,No,,0.0
+16,Rohan Talaviya,ENTC,2025,Yes,Capgemini,4.0
+17,Pooja Singh,Mechanical,2025,No,,0.0
+18,Kiran Deshmukh,CSE,2025,Yes,Accenture,4.8
+19,Akash Jadhav,IT,2025,Yes,TCS,3.7
+20,Sanya Pawar,Mechanical,2025,No,,0.0
+21,Vivek Patil,CSE,2025,Yes,Infosys,3.9
+22,Prachi Joshi,ENTC,2025,No,,0.0
+23,Rajat Sharma,IT,2025,Yes,Wipro,4.5
+24,Simran Kaur,CSE,2025,Yes,Accenture,4.0
+25,Ankit Singh,ENTC,2025,No,,0.0
