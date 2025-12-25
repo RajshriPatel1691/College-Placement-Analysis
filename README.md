@@ -34,7 +34,7 @@ This project analyzes college placement data using **Python** and **Power BI** t
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](PowerBI_Project/Dashboard_Screenshot.png)
+![Dashboard](PowerBI/College_Placement_Dashboard1.png)
 
 ---
 
